@@ -1,0 +1,80 @@
+{
+    "name": "BeeBole",
+    "description": "Online timesheets for businesses. Easy and flexible time-tracking to make better decisions. No-credit-card free trial. Sign up now.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/704-beebole.jpg",
+    "tags": [
+        "api provider",
+        "billing",
+        "calendaring",
+        "have api",
+        "office",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/beebole\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BeeBole",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/704-beebole.jpg",
+            "humanURL": "http:\/\/beebole.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/beebole-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/beebole-apps.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/beebole.com\/en\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds2.feedburner.com\/Beebuzz"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/beebole"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/beebole"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/beebole.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "support@beebole.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/beebole"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/beebole.com\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/beebole"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/beebole.com\/"
+        }
+    ]
+}
